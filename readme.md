@@ -10,6 +10,6 @@ Once the build is completed run the Docker image that is created.
 docker run -v <Path to NLP repo>:/home/jovyan/work -p 8888:8888 jupyter/my-datascience-notebook:latest
 ```
 
-The code is is in NLP.ipynb
+The code is in NLP.ipynb
 
-I am new to Python I got the concept of how this NLP with spacy works but couldn't figure out how to implement the same in Python.
+I am new to Python I got the concept of how this NLP with spacy works but couldn't figure out how to train the same using Python.
